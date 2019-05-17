@@ -1,0 +1,13 @@
+[
+{
+	"id" : "CE CEA",
+	"caption": "Cheat Engine CEA",
+	"children":
+	[
+	{
+		"caption" : "Documentation",
+		"command" : "assembly_doc"
+	}
+	]
+}
+]

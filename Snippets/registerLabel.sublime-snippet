@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[label(${1:name})
+registerSymbol(${1:name})]]></content>
+	<tabTrigger>reg</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>register label</description>
+</snippet>

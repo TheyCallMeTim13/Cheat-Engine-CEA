@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[////
+//// ------------------------------ ENABLE ------------------------------
+[ENABLE]
+////
+//// ------------------------------ DISABLE ------------------------------
+[DISABLE]
+]]></content>
+	<tabTrigger>enab</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>ENABLE DISABLE</description>
+</snippet>

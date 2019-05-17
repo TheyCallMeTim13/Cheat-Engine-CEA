@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unregisterSymbol(${1:name})]]></content>
+	<tabTrigger>unreg</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>unregisterSymbol</description>
+</snippet>

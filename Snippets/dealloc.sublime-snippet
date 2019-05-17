@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dealloc(${1:name})]]></content>
+	<tabTrigger>deall</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>dealloc</description>
+</snippet>

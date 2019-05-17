@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[alloc(${1:name}, ${2:0x400}, ${3:near})]]></content>
+	<tabTrigger>all</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>alloc</description>
+</snippet>

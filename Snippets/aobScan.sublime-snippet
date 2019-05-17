@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[aobScan(${1:name}, ${2:aob})]]></content>
+	<tabTrigger>aob</tabTrigger>
+	<scope>source.CEA</scope>
+	<description>aobScan</description>
+</snippet>
